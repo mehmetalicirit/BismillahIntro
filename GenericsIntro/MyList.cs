@@ -7,7 +7,7 @@ namespace GenericsIntro
     class MyList<T>
     {
         T[] items;
-        //constructor R7 ERA
+        //constructor R11 ERA  
         public MyList()
         {
             items = new T[0];
